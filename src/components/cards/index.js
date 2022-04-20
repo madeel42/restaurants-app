@@ -1,0 +1,1 @@
+export { CardCom } from "./card";
